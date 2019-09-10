@@ -1,0 +1,63 @@
+/* Reset */
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box
+}
+
+body{
+    font-family: 'Vollkorn', serif;
+}
+
+h1{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 2rem;
+    color:#0074D9
+}
+
+#main-header{
+    
+}
+
+#main-header .header-items{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    padding: 2rem;
+}
+
+#main-header .header-items p{
+    font-size: 1.4rem;
+    padding-top: 1.5rem;
+}
+
+#main-header .header-items .header-par{
+    margin-top: 2rem;
+}
+
+#main-footer{
+    background: #AAAAAA;
+    height: 12.5rem;
+    
+}
+
+#main-footer .footer-items{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    padding:2.5rem;
+}
+
+#main-footer .footer-items .footer-par{
+    font-size: 1.1rem;
+}
+
+#main-footer .footer-items .icons{
+    display: flex;
+    padding-top: 1rem ;
+}
+
+#main-footer .footer-items .icon{
+    margin : 1.6rem 1rem 0 1rem
+}

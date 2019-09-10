@@ -4,14 +4,13 @@ hr{
   border: 1px;
   border-top: 2px solid rgb(0, 40, 0);
   margin: 1em 0;
-  padding: 0;
 }
 .container p{
   font-style: oblique;
   color:black;	
   font-size: 20;
   position: relative;
-  left: 10%;
+  left: 15%;
   width: initial;
 
 }

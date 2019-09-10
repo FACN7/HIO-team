@@ -1,0 +1,42 @@
+h1{
+  color:black;	
+  font-style: oblique;
+  font-size:50;
+  left: 5%;
+  position: relative;
+}
+hr{
+  display: block;
+  height: 4px;
+  border: 1px;
+  border-top: 2px solid rgb(0, 40, 0);
+  margin: 1em 0;
+  padding: 0;
+}
+p{
+  font-style: oblique;
+  color:black;	
+  font-size: 35;
+  position: relative;
+  left: 10%;
+  width: initial;
+
+}
+.Facn7 {
+margin-left:50%;}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.row {
+  display: flex;
+  margin: 10em;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+.timg,.fimg,.simg{
+  left: 15%;
+
+  width: 200px;
+  height: 200px;
+}

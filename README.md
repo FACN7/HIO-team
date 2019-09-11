@@ -10,7 +10,7 @@
  
  ## GOALS:
  - [x] Regex in E-MAIL and mobile number.
- - [ ] responsive.
+ - [x] responsive.
  - [x] Logo.
  
  ## Link to website

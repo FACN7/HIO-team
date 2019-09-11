@@ -110,10 +110,12 @@
         <div class="form-items">
             <form onclick=alert("The details are sucsesfuly loaded..")>
                 <label for="fname">First Name :</label>
-                <input type="text" id="fname" name="firstname" placeholder="Your name..">
+                <input type="text" id="fname" name="firstname" placeholder="Your first name.." pattern="([a-zA-z]{1,})"
+                    required title="unavailable name">
 
                 <label for="lname">Last Name :</label>
-                <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+                <input type="text" id="lname" name="lastname" placeholder="Your last name.." pattern="([a-zA-z]{1,})"
+                    required title="unavailable name">
 
                 <label for="lname">Email adress :</label>
                 <input type="text" id="lname" name="lastname" placeholder="example@mail.com"
@@ -121,8 +123,10 @@
                     required title="Someone@email.com">
 
                 <label for="lname">mobile phone :</label>
+
                 <input type="text" id="lname" name="lastname" placeholder="Enter Your Phone" pattern="[0-9]{10}"
                     required title="mobile phone">
+
 
 
                 <label for="lname">notes : </label>

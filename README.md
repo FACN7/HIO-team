@@ -8,3 +8,11 @@
  ## HOW:
  We had draw a sketcha of the final project, and split it to three groups, each developere was responsable to a part.
  then we had push it to git with resolving the conflicts.
+ 
+ ##GOALS
+ [*] Regex in E-MAIL and mobile number.
+ [*] responsive
+ [*] logo
+ 
+ [Link to website]()
+ 

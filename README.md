@@ -10,9 +10,9 @@
  then we had push it to git with resolving the conflicts.
  
  ##GOALS
- - [ * ] Regex in E-MAIL and mobile number.
- - [ * ] responsive
- - [ * ] logo
+ - [ x ] Regex in E-MAIL and mobile number.
+ - [  ] responsive
+ - [ x ] logo
  
  [Link to website]()
  

@@ -5,7 +5,7 @@
 ## WHAT:
  Our interface provide all the infromation about the team as well readable with voxchrome, and have smoothly contact form to   make sure we get the customers requirements .
  ## HOW:
- We had draw a sketcha of the final project, and split it to three groups, each developere was responsable to a part.
+ We had draw a sketcha of the final project, and split it to three groups, each developer responsible of his part.
  then we had push it to git with resolving the conflicts.
  
  ## GOALS:

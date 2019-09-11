@@ -14,5 +14,5 @@
  - [x] Logo.
  
  ## Link to website
-   [Link]()
+   [Link](https://facn7.github.io/HIO-team/)
  

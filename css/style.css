@@ -39,7 +39,7 @@ hr {
 }
 
 .Facn7 {
-  margin-left: 50%;
+  margin-left: 40%;
 }
 
 .p2 {
@@ -52,25 +52,32 @@ hr {
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .row {
   display: flex;
-  margin: 5em;
   width: 1000px;
-}
-
-.column p {
-  left: 0%;
+  justify-content: space-between;
+  margin-top: 60px;
 
 }
+
 
 .column h1 {
   padding-top: 10%;
   padding-bottom: 10%;
 
 }
+.card{
+  padding: 40px 40px;
+}
 
 .column {
 
-  flex: 33.33%;
-  padding: 0px;
+  box-shadow: 5px 10px #a09c9c7c;
+  border: 1px solid;
+  border-radius: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  width:300px;
+  height: 600px;
+
 }
 
 .timg,
@@ -253,4 +260,29 @@ input[type=submit] {
   font-size: 1.8rem;
   /* text-align: center; */
   padding: 1rem;
+}
+
+.personal-links-icons{
+  display: flex;
+  flex-direction: row;
+padding: 40px 10px 0 0;
+justify-content: space-around;
+}
+
+#Hosen-links-icons{
+  display: flex;
+  justify-content: space-around;
+  padding: 60px 10px 0 0;
+
+
+}
+#ebraheem-links-icons{
+  display: flex;
+  justify-content: space-around;
+  padding: 40px 10px 0 0;
+}
+#omri-links-icons{
+  display: flex;
+  justify-content: space-around;
+  padding: 40px 10px 0 0;
 }

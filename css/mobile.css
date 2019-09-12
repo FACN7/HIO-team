@@ -1,3 +1,13 @@
+
+
+#team_section .personal-links-icons{
+    display: flex;
+    flex-direction: row;
+  padding: 40px 0 0 0;
+  justify-content: space-evenly;
+  }
+  
+
 .navbar {
     overflow: hidden;
     background-color: black;
@@ -10,16 +20,26 @@
 }
 
 #team_section .row {
+    display: flex;
     flex-direction: column;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 60px;
 
 }
 
 #team_section .column {
     padding-bottom: 50px;
-    display: block;
-    margin-left: 0%;
+    display: flex;
     margin-right: 15%;
+    margin-bottom: 60px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    
 }
+
 
 .github-nav-icon {
     display: none;

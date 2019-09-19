@@ -64,7 +64,8 @@ hr {
   padding-bottom: 10%;
 
 }
-.card{
+
+.card {
   padding: 40px 40px;
 }
 
@@ -75,7 +76,7 @@ hr {
   border-radius: 10px;
   margin-right: 10px;
   margin-left: 10px;
-  width:300px;
+  width: 300px;
   height: 600px;
 
 }
@@ -263,26 +264,28 @@ input[type=submit] {
   padding: 1rem;
 }
 
-.personal-links-icons{
+to pair .personal-links-icons {
   display: flex;
   flex-direction: row;
-padding: 40px 10px 0 0;
-justify-content: space-around;
+  padding: 40px 10px 0 0;
+  justify-content: space-around;
 }
 
-#Hosen-links-icons{
+#Hosen-links-icons {
   display: flex;
   justify-content: space-around;
   padding: 60px 10px 0 0;
 
 
 }
-#ebraheem-links-icons{
+
+#ebraheem-links-icons {
   display: flex;
   justify-content: space-around;
   padding: 40px 10px 0 0;
 }
-#omri-links-icons{
+
+#omri-links-icons {
   display: flex;
   justify-content: space-around;
   padding: 40px 10px 0 0;
